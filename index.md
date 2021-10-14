@@ -1,37 +1,14 @@
 212986IAAB
 
-You can use the [editor on GitHub](https://github.com/jejanittu/jejanitest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| ta | l | te | c  | h        |
+|----|---|----|----|----------|
+| h  | a | r  | r  | i        |
+| l  | e | n  | se | n        |
+| p  | r | e  | s  | idendiks |
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc fermentum auctor nisl, sit amet posuere eros feugiat quis. Nam lectus justo, aliquet gravida suscipit non, euismod quis urna. Fusce vel lectus a risus aliquam porta id ornare erat. Donec id leo in leo imperdiet viverra vitae et lorem. Phasellus a porta ligula, id mollis nisi. Fusce lectus leo, semper eget diam vitae, aliquam tempus turpis. Integer mollis arcu ac ex porta congue. Aenean leo nunc, lacinia ac nunc at, facilisis bibendum tortor. Morbi scelerisque varius velit eu tincidunt. Maecenas at lacus id lacus tristique viverra vel vitae nunc. Proin eget augue placerat, imperdiet tellus in, mollis velit. Morbi laoreet velit non interdum imperdiet. Morbi varius vel velit nec aliquet. Suspendisse posuere purus in ante porttitor commodo. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image_of_tipikas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqiNDUpMRDCtQ1MjKE1NtKpdWLpDe5e4T8o9QsSPnPB30bk9hEKKKyrNYw64hI3SHtQmw&usqp=CAU)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jejanittu/jejanitest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[külastage meie uhket kodulehte!](https://taltech.ee/)
